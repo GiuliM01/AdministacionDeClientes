@@ -1,0 +1,12 @@
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\bin\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\giuli\source\repos\AdministracionDeClientes\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb
